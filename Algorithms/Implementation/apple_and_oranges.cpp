@@ -1,7 +1,6 @@
 /************************************************************************
 // SOLUTION HERE
 ************************************************************************/
-
 void countApplesAndOranges(int s, int t, int a, int b, vector<int> apples, vector<int> oranges) {
     int count = 0;
     for(int i = 0; i < apples.size(); i++){
